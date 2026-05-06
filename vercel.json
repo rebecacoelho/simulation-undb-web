@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://simular-requerimentos.onrender.com/api/:path*"
+    }
+  ]
+}

@@ -445,10 +445,6 @@ const Index = () => {
             </TabsContent>
           </Tabs>
         )}
-
-        <footer className="text-center text-xs text-muted-foreground pt-4 border-t border-border/40">
-          Simulação executada via API · Selenium + SimPy
-        </footer>
       </div>
     </div>
   );
